@@ -9,7 +9,7 @@ CustomerKey              ->
 ProductKey               -> 
 OrderDateKey             -> 
 DueDateKey               -> 
-ShipDateKey              -> 
+ShipDateKey              ->  
 SalesTerritoryKey        -> 
 Order Quantity           -> 
 Unit Price               -> 
